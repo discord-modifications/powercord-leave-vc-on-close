@@ -3,7 +3,7 @@ const { Plugin } = require('powercord/entities');
 
 const { selectVoiceChannel } = getModule(['selectVoiceChannel'], false);
 
-module.exports = class HideSelfSpeakingRing extends Plugin {
+module.exports = class LeaveVCOnClose extends Plugin {
    constructor() {
       super();
 
