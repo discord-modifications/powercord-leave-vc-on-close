@@ -1,0 +1,8 @@
+{
+   "name": "Leave VC On Close",
+   "version": "1.0.0",
+   "description": "Fully disconnects you from the voice channel you're in if you close your client.",
+   "author": "eternal",
+   "discord": "shnvz5ryAt",
+   "license": "Unlicensed"
+}
